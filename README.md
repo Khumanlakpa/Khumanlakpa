@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Khumanlakpa 👋
 
-<!--
-**Khumanlakpa/Khumanlakpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student exploring programming, electronics, and technology.
 
-Here are some ideas to get you started:
+### Currently Learning
+- Python
+- C Programming
+- Git and GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interests
+- Software Development
+- Electronics and DIY Projects
+- Arduino and Microcontrollers
+- Problem Solving
+
+### Goals
+- Build interesting software and hardware projects.
+- Learn new technologies.
+- Improve my programming skills.
+
+---
+
+*Learning, experimenting, and building things along the way.*
