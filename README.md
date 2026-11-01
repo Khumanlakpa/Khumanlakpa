@@ -1,4 +1,4 @@
-# Hi, I'm Khumanlakpa 👋
+# Yosoos, I'm Khumanlakpa 👋
 
 I'm a Computer Science student exploring programming, electronics, and technology.
 
